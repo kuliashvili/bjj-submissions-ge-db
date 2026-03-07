@@ -1,8 +1,8 @@
-# jiujitsu submissions georgian db 🥋
+# jiujitsu მტკივნეულების მონაცემთა ბაზა 🥋
 
-**KA** | MySQL მონაცემთა ბაზა ბრაზილიური ჯიუ-ჯიცუს submissions ტექნიკების შესახებ — სახელები, ტიპები, სირთულის დონეები და აღწერები ქართულად და ინგლისურად.
+MySQL მონაცემთა ბაზა ბრაზილიური ჯიუ-ჯიცუს submissions ტექნიკების შესახებ — სახელები, ტიპები, სირთულის დონეები და აღწერები ქართულად და ინგლისურად.
 
-**EN** | A MySQL database of Brazilian Jiu-Jitsu submission techniques — names, types, difficulty levels and descriptions in both English and Georgian.
+A MySQL database of Brazilian Jiu-Jitsu submission techniques — names, types, difficulty levels and descriptions in both English and Georgian.
 
 ---
 
