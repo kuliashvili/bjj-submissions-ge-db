@@ -1,6 +1,8 @@
 # jiujitsu მტკივნეულების მონაცემთა ბაზა
 
 MySQL მონაცემთა ბაზა ბრაზილიური ჯიუ-ჯიცუს submissions ტექნიკების შესახებ — სახელები, ტიპები, სირთულის დონეები და აღწერები ქართულად და ინგლისურად.
+<img width="1010" height="493" alt="image" src="https://github.com/user-attachments/assets/5f423e3c-7aea-4904-b84b-c11906820e2a" />
+
 
 A MySQL database of Brazilian Jiu-Jitsu submission techniques — names, types, difficulty levels and descriptions in both English and Georgian.
 
